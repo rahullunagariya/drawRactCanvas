@@ -1,5 +1,5 @@
 import React from 'react';
-import { fabric } from 'fabric';
+
 import '../../assets/css/rectCanvas.scss';
 import swal from 'sweetalert';
 
